@@ -1,0 +1,17 @@
+.image{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium ;
+    font-weight: 200;
+    text-decoration: solid;
+    text-align: justify;
+    color: #04098a;
+    border: 10px;
+    border-width: 5px;
+    border-radius: 0cap;
+    border-color: #04098a;
+    border-style:outset;
+    background-image: url("https://ik.imagekit.io/do5tasc8vu/todolistbg.webp?updatedAt=1709293012049");
+    height : 500px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
