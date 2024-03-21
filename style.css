@@ -1,3 +1,8 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;    
+}
 .bg-todo{
     background-image: url("https://ik.imagekit.io/do5tasc8vu/todolistbg.webp?updatedAt=1709293012049");
     height: 950px;
@@ -5,3 +10,11 @@
     background-size: contain;
     background-repeat: no-repeat;
 }
+.chat{
+    background-image: url("https://ik.imagekit.io/f90erny2b/chatbg.png?updatedAt=1711014444523");
+    height: 800px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
